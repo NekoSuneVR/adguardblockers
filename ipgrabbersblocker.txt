@@ -1,0 +1,31 @@
+! Title: IP Blockers Blocklist by NekoSuneVR
+! Source: https://raw.githubusercontent.com/NekoSuneVR/adguardblockers/main/ipgrabbersblocker.txt
+! Home: https://github.com/NekoSuneVR/adguardblockers
+! Contribute: https://github.com/NekoSuneVR/adguardblockers/issues
+! License: MIT (https://mit-license.org/)
+
+||grabify.link^
+||iplogger.org^
+||grabify.org^
+||wl.gl^
+||ed.tc^
+||bc.ax^
+||iplogger.com^
+||maper.info^
+||iplogger.ru^
+||iplogger.co^
+||2no.co^
+||yip.su^
+||iplogger.info^
+||ipgrabber.ru^
+||ipgraber.ru^
+||cklickmaster.com^
+||snifferip.com^
+||onbit.pro^
+||unl.one^
+||urlto.me^
+||iplog.co^
+||iplogger.cn^
+||ezstat.ru^
+||02ip.ru^
+||iplis.ru^
