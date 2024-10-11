@@ -1,0 +1,5 @@
+! Title: Fake Clone Communitys Blocklist by NekoSuneVR
+! Source: https://raw.githubusercontent.com/NekoSuneVR/adguardblockers/main/fakedomains.txt
+! Home: https://github.com/NekoSuneVR/adguardblockers
+! Contribute: https://github.com/NekoSuneVR/adguardblockers/issues
+! License: MIT (https://mit-license.org/)
